@@ -1,1 +1,1 @@
-https://CJEF.github.io/rsschool-cv/cv
+https://cjef.github.io/rsshool-cv/cv
