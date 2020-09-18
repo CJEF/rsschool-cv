@@ -11,7 +11,7 @@ Karaganda, Kazakhstan
 *[My website with works](cjef.github.io/portfolio.github.io/)*
 
 > my goal is to learn how to program! It seems to me that this is a very accessible and interesting, in-demand profession. I started training to make new friends and learn to work in a team, and much more!
-**Skills:**  I'm familiar with HTML, CSS(SCSS), JS, GIT, NPM, GULP. I know how to work with the command line and set the environment .
+**Skills:**  I'm familiar with HTML, CSS(SCSS), JS(Jq), GIT, NPM, GULP. I know how to work with the command line and set the environment 
 
 **Code examples:** [GitHub account](https://github.com/CJEF)
 
